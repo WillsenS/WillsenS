@@ -31,5 +31,4 @@ Reach me out at: https://www.linkedin.com/in/willsensentosa/
 
 ### Top Languages
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillsenS&langs_count=10;layout=compact" alt="Top Languages"></p>
----
 
