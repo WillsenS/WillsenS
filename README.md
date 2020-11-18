@@ -28,7 +28,7 @@ Reach me out at: https://www.linkedin.com/in/willsensentosa/
 
 
 ### Github Stats
-<p><img src="https://github-readme-stats.vercel.app/api?username=WillsenS&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=WillsenS&amp;show_icons=true&amp;count_private=true&amp;theme=vue" alt="GitHub Stats"></p>
 
 ### Top Languages
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillsenS&langs_count=10;layout=compact" alt="Top Languages"></p>
