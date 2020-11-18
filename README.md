@@ -13,6 +13,7 @@ Reach me out at: https://www.linkedin.com/in/willsensentosa/
 ### My Skills
 <p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat-square&logo=c%2B%2B&ogoColor=white"/>
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white"/>
