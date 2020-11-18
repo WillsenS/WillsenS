@@ -1,7 +1,16 @@
 # Welcome to my Git!
 
-### My Skills
+### Overview:
 
+- 🌱 I’m currently learning at Institut Teknologi Bandung
+- 👯 I’m studying Informatics Engineering
+- 📫 Email me at: willsensentosa.sentosa@gmail.com
+
+Reach me out at: https://www.linkedin.com/in/willsensentosa/
+
+---
+
+### My Skills
 <p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat-square&logo=c%2B%2B&ogoColor=white"/>
@@ -13,8 +22,7 @@
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/> <br/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/python%20-%23181717.svg?&style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/c#%20-%23121011.svg?&style=flat-square&logo=c#&logoColor=white"/>
-<img src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=flat-square&logo=bitbucket&logoColor=white"/>
+<img src="https://img.shields.io/badge/unity%20-%23121011.svg?&style=flat-square&logo=unity&logoColor=white"/>
 </p>
 
 
@@ -25,8 +33,4 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillsenS&amp;layout=compact" alt="Top Languages"></p>
 
 ---
-Overview:
 
-- 🌱 I’m currently learning at Institut Teknologi Banding
-- 👯 I’m studying Informatics Engineering
-- 📫 Email me at: willsensentosa.sentosa@gmail.com
