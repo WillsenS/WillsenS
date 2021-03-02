@@ -24,6 +24,7 @@ Reach me out at: https://www.linkedin.com/in/willsensentosa/
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/python%20-%23181717.svg?&style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/unity%20-%23121011.svg?&style=flat-square&logo=unity&logoColor=white"/>
+<img src="https://https://img.shields.io/badge/-Jupyter%20Notebook-orange.svg?&style=flat-square&logo=php&logoColor=white"/>
 </p>
 
 
