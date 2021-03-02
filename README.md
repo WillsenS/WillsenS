@@ -26,13 +26,13 @@ Reach me out at: https://www.linkedin.com/in/willsensentosa/
 <img src="https://img.shields.io/badge/unity%20-%23121011.svg?&style=flat-square&logo=unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Jupyter%20Notebook-orange.svg?&style=flat-square&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/-PostgreSQL-blueviolet.svg?&style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/-MongoDB-critical.svg?&style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MongoDB-brightgreen.svg?&style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
 
 
 ### Github Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=WillsenS&amp;show_icons=true&amp;count_private=true&amp;theme=vue" alt="GitHub Stats"></p>
-
+<p> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WillsenS)](https://github.com/anuraghazra/github-readme-stats) </p>
 ### Top Languages
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillsenS&langs_count=10;layout=compact" alt="Top Languages"></p>
 
