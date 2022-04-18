@@ -2,7 +2,7 @@
 
 ### Overview:
 
-- 🌱 I’m currently learning at Institut Teknologi Bandung
+- 🌱 I’m a fresh graduate at Institut Teknologi Bandung
 - 👯 I’m studying Informatics Engineering
 - 📫 Email me at: willsensentosa.sentosa@gmail.com
 
